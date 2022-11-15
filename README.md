@@ -1,4 +1,4 @@
-# LGM-task05-sept22
+# Student Result Management System
 
 #Hosted Link:  
             https://bheem2510.github.io/LGM-task05-sept22/
