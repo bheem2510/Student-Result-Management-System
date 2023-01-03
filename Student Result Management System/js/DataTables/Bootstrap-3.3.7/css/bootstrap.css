@@ -327,9 +327,11 @@ th {
 .glyphicon-th-large:before {
   content: "\e010";
 }
+
 .glyphicon-th:before {
   content: "\e011";
 }
+
 .glyphicon-th-list:before {
   content: "\e012";
 }
