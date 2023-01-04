@@ -50,6 +50,7 @@ echo '<script>alert("Something went wrong. Please try again.")</script>';
     -webkit-box-shadow: 0 1px 1px 0 rgba(0,0,0,.1);
     box-shadow: 0 1px 1px 0 rgba(0,0,0,.1);
 }
+             
 .succWrap{
     padding: 10px;
     margin: 0 0 20px 0;
