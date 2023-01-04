@@ -20,7 +20,8 @@ if($lastInsertId)
 {
 echo '<script>alert("Notice added succesfully")</script>';
 echo "<script>window.location.href ='manage-notices.php'</script>";
-}else {
+}
+else {
 echo '<script>alert("Something went wrong. Please try again.")</script>';
 }
 
